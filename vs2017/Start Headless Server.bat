@@ -1,5 +1,5 @@
 @echo off
-cd %ProgramFiles%\ZetaGlest
+cd %ProgramFiles%\Glest
 :Restart:
-.\zetaglest-64.exe --headless-server-mode
+.\glest-64.exe --headless-server-mode
 goto Restart
