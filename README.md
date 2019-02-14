@@ -1,6 +1,6 @@
 # Glest
 
-**Official Website: https://glest.github.io**
+**Official Website: https://glest.io**
 
 This repository is automatically cloned during Glest installation on Windows.
 
