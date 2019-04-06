@@ -8,4 +8,4 @@ The corresponding game data should be stored in a folder named `data` located be
 
 The content of `data` can be cloned from https://github.com/Glest/glest-data.
 
-The binaries are compiled is `Release` mode with optimizations turned on. It is recommended to use the VS2017 binaries for production.
+The binaries are compiled is `Release` mode with optimizations turned on.
